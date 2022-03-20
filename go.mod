@@ -11,8 +11,11 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.15.0
 	github.com/aws/aws-sdk-go-v2/config v1.15.0
 	github.com/aws/aws-sdk-go-v2/credentials v1.10.0
+	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.12.0
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.0
+	github.com/aws/aws-sdk-go-v2/service/marketplacemetering v1.13.0
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.26.0
+	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.6.0
 	github.com/aws/aws-sdk-go-v2/service/sts v1.16.0
 	github.com/cockroachdb/cockroach-go/v2 v2.2.8
 	github.com/coreos/go-oidc/v3 v3.1.0
@@ -76,7 +79,6 @@ require (
 	cloud.google.com/go/iam v0.3.0 // indirect
 	github.com/Azure/azure-sdk-for-go/sdk/internal v0.9.1 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.4.0 // indirect
-	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.12.0 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/configsources v1.1.6 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/endpoints/v2 v2.4.0 // indirect
 	github.com/aws/aws-sdk-go-v2/internal/ini v1.3.7 // indirect

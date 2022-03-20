@@ -169,8 +169,11 @@ github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.9.0/go.mod h1:R31
 github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.13.0 h1:i+7ve93k5G0S2xWBu60CKtmzU5RjBj9g7fcSypQNLR0=
 github.com/aws/aws-sdk-go-v2/service/internal/s3shared v1.13.0/go.mod h1:L8EoTDLnnN2zL7MQPhyfCbmiZqEs8Cw7+1d9RlLXT5s=
 github.com/aws/aws-sdk-go-v2/service/kms v1.5.0/go.mod h1:w7JuP9Oq1IKMFQPkNe3V6s9rOssXzOVEMNEqK1L1bao=
+github.com/aws/aws-sdk-go-v2/service/marketplacemetering v1.13.0 h1:m1WsE6LKTQBxI77kejgQb0kdFM8kgaWCdct1B+eGijc=
+github.com/aws/aws-sdk-go-v2/service/marketplacemetering v1.13.0/go.mod h1:f+7bvu+A0LkFPjAD1wHgfQl6jgAOhrYhQ4rsF98GkCI=
 github.com/aws/aws-sdk-go-v2/service/s3 v1.26.0 h1:6IdBZVY8zod9umkwWrtbH2opcM00eKEmIfZKGUg5ywI=
 github.com/aws/aws-sdk-go-v2/service/s3 v1.26.0/go.mod h1:WJzrjAFxq82Hl42oh8HuvwpugTgxmoiJBBX8SLwVs74=
+github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.6.0 h1:3vxYnnbPWwECs3xN+cu/bRefhynMOH6elQAxuHES01Q=
 github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.6.0/go.mod h1:B+7C5UKdVq1ylkI/A6O8wcurFtaux0R1njePNPtKwoA=
 github.com/aws/aws-sdk-go-v2/service/ssm v1.10.0/go.mod h1:4dXS5YNqI3SNbetQ7X7vfsMlX6ZnboJA2dulBwJx7+g=
 github.com/aws/aws-sdk-go-v2/service/sso v1.4.0/go.mod h1:+1fpWnL96DL23aXPpMGbsmKe8jLTEfbjuQoA4WS1VaA=
