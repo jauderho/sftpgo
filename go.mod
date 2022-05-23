@@ -36,7 +36,7 @@ require (
 	github.com/jlaffaye/ftp v0.0.0-20201112195030-9aae4d151126
 	github.com/klauspost/compress v1.15.4
 	github.com/lestrrat-go/jwx v1.2.24
-	github.com/lib/pq v1.10.5
+	github.com/lib/pq v1.10.6
 	github.com/lithammer/shortuuid/v3 v3.0.7
 	github.com/mattn/go-sqlite3 v1.14.13
 	github.com/mhale/smtpd v0.8.0
