@@ -16,7 +16,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.11.62
 	github.com/aws/aws-sdk-go-v2/service/marketplacemetering v1.14.9
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.31.3
-	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.19.3
+	github.com/aws/aws-sdk-go-v2/service/secretsmanager v1.19.4
 	github.com/aws/aws-sdk-go-v2/service/sts v1.18.9
 	github.com/bmatcuk/doublestar/v4 v4.6.0
 	github.com/cockroachdb/cockroach-go/v2 v2.3.3
