@@ -38,7 +38,7 @@ require (
 	github.com/jackc/pgx/v5 v5.5.5
 	github.com/jlaffaye/ftp v0.2.0
 	github.com/klauspost/compress v1.17.8
-	github.com/lestrrat-go/jwx/v2 v2.0.21
+	github.com/lestrrat-go/jwx/v2 v2.1.0
 	github.com/lithammer/shortuuid/v3 v3.0.7
 	github.com/mattn/go-sqlite3 v1.14.22
 	github.com/mhale/smtpd v0.8.3
@@ -67,10 +67,10 @@ require (
 	go.etcd.io/bbolt v1.3.10
 	go.uber.org/automaxprocs v1.5.3
 	gocloud.dev v0.37.0
-	golang.org/x/crypto v0.23.0
+	golang.org/x/crypto v0.24.0
 	golang.org/x/net v0.25.0
 	golang.org/x/oauth2 v0.20.0
-	golang.org/x/sys v0.20.0
+	golang.org/x/sys v0.21.0
 	golang.org/x/term v0.20.0
 	golang.org/x/time v0.5.0
 	google.golang.org/api v0.181.0
@@ -113,7 +113,7 @@ require (
 	github.com/go-logr/logr v1.4.1 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
 	github.com/go-ole/go-ole v1.3.0 // indirect
-	github.com/goccy/go-json v0.10.2 // indirect
+	github.com/goccy/go-json v0.10.3 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/s2a-go v0.1.7 // indirect
